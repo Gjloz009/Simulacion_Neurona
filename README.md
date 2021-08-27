@@ -1,6 +1,12 @@
 # Simulación de Neurona.
-Este es un proyecto donde se realiza un análisis más a fondo del comportamiento del potencial de la neurona,la recreación del codigo fue hecha por mi cuenta.
-El artículo se incluye en el repositorio.
-# Neuron simulation.
-This is a project where a more in-depth analysis of the behavior of the neuron potential is carried out, the recreation of the code was done on my own.
-The article is in the repository
+Este es un proyecto donde se recrea una parte del código hecho para el [artículo](https://www.sciencedirect.com/science/article/pii/S089662731400292X) en el cual se simula una neurona y su comportamiento con diferentes parametros de entrada.
+
+- El módelo es la solución de un sistema de ecuaciones a traves del uso del métdos de Euler.
+- Se crean diferentes pruebas con diferentes parametros ,quitando algunos parametros para ver su evolución temporal y estabilidad.
+- Se incluye un reporte con las concusiones para este proyecto, así como el procedimiento y recomendaciones a la continuación de este trabajo.
+
+![](/mas_chilo.png)
+![](/ConductanciasPrueba.png)
+
+---
+Trabajo implementado en Julia bajo la interfaz de Jupyter notebook.
